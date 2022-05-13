@@ -1,0 +1,14 @@
+PROJECT_PATH="CHANGEME" # Example ~ /Users/SomeUser/Documents/preskok
+ALIASES_DIR="`dirname "$0"`"
+
+. "${ALIASES_DIR}/apps.sh"
+. "${ALIASES_DIR}/general.sh"
+
+# PROJECTS #
+. "${ALIASES_DIR}/projects/abmobil.sh"
+. "${ALIASES_DIR}/projects/abmobil-hr.sh"
+. "${ALIASES_DIR}/projects/b2b.sh"
+. "${ALIASES_DIR}/projects/devenv2.sh"
+. "${ALIASES_DIR}/projects/digital-inspection.sh"
+. "${ALIASES_DIR}/projects/likvidator.sh"
+. "${ALIASES_DIR}/projects/market-study.sh"
