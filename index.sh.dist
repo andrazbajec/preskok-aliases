@@ -6,6 +6,7 @@ ALIASES_DIR="`dirname "$0"`"
 
 # PROJECTS #
 . "${ALIASES_DIR}/projects/abmobil.sh"
+. "${ALIASES_DIR}/projects/abmobil-at.sh"
 . "${ALIASES_DIR}/projects/abmobil-hr.sh"
 . "${ALIASES_DIR}/projects/b2b.sh"
 . "${ALIASES_DIR}/projects/devenv2.sh"
